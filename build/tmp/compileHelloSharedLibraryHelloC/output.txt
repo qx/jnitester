@@ -1,0 +1,4 @@
+See file:///Users/ok/github/gcj2/build/tmp/compileHelloSharedLibraryHelloC/output.txt for all output for compileHelloSharedLibraryHelloC.
+compiling hello.c successful.
+
+Finished compileHelloSharedLibraryHelloC, see full log file:///Users/ok/github/gcj2/build/tmp/compileHelloSharedLibraryHelloC/output.txt.

@@ -1,0 +1,12 @@
+-x
+c
+-c
+-fPIC
+-I
+/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/include
+-I
+/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/include/darwin
+-mmacosx-version-min=10.4
+-I
+/Users/ok/github/gcj2/src/hello/headers
+-m64

@@ -1,0 +1,5 @@
+See file:///Users/ok/github/gcj2/build/tmp/linkHelloSharedLibrary/output.txt for all output for linkHelloSharedLibrary.
+linking libhello.dylib successful.
+clang: warning: libstdc++ is deprecated; move to libc++ with a minimum deployment target of OS X 10.9 [-Wdeprecated]
+
+Finished linkHelloSharedLibrary, see full log file:///Users/ok/github/gcj2/build/tmp/linkHelloSharedLibrary/output.txt.
